@@ -1,9 +1,9 @@
 Gst-python in docker
 --------------------
 
-Image contains 
+Image contains GStreamer
 
- - gst-python_
- - ``gst-launch``
+ - tools, ``gst-launch`` among others
+ - Python bindings; gst-python_
 
 .. _gst-python: http://gstreamer.freedesktop.org/modules/gst-python.html
